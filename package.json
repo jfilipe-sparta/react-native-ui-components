@@ -35,13 +35,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/jfilipe-dev/react-native-ui-components",
-  "author": "jfilipe-dev <jfilipe1511@gmail.com> (https://github.com/jfilipe-dev)",
+  "repository": "https://github.com/jfilipe-sparta/react-native-ui-components",
+  "author": "jfilipe-sparta joao.andrade@spartalabs.com.br> (https://github.com/jfilipe-sparta)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jfilipe-dev/react-native-ui-components/issues"
+    "url": "https://github.com/jfilipe-sparta/react-native-ui-components/issues"
   },
-  "homepage": "https://github.com/jfilipe-dev/react-native-ui-components#readme",
+  "homepage": "https://github.com/jfilipe-sparta/react-native-ui-components#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

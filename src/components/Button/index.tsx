@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
-import { TouchableOpacityProps } from 'react-native';
+import type { TouchableOpacityProps } from 'react-native';
 import { useTheme } from 'styled-components';
-import { Color } from '../../styles/colors';
+import type { Color } from '../../styles/colors';
 import {
   ButtonFrame,
   ButtonText,

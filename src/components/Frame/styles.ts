@@ -1,8 +1,8 @@
 import LinearGradient from 'react-native-linear-gradient';
 import styled, { css } from 'styled-components/native';
 
-import { Color } from '../../styles/colors';
-import { FrameContainerProps } from '.';
+import type { Color } from '../../styles/colors';
+import type { FrameContainerProps } from '.';
 
 export const FrameContainer = styled.View<FrameContainerProps>`
   align-items: center;

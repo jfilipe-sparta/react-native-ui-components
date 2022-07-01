@@ -1,6 +1,6 @@
 import { TouchableOpacity } from 'react-native';
 import styled, { css } from 'styled-components/native';
-import { ButtonSize } from '.';
+import type { ButtonSize } from '.';
 import Frame from '../Frame';
 
 interface ButtonProps {

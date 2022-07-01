@@ -1,4 +1,4 @@
-import { FlattenInterpolation } from 'styled-components';
+import type { FlattenInterpolation } from 'styled-components';
 import { css, DefaultTheme, ThemeProps } from 'styled-components/native';
 
 type TypographyValue = FlattenInterpolation<ThemeProps<DefaultTheme>>;

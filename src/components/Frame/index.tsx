@@ -1,8 +1,8 @@
 import React from 'react';
-import { StyleProp, ViewStyle } from 'react-native';
-import { LinearGradientProps } from 'react-native-linear-gradient';
+import type { StyleProp, ViewStyle } from 'react-native';
+import type { LinearGradientProps } from 'react-native-linear-gradient';
 import { useTheme } from 'styled-components';
-import { Color, GradientColor } from '../../styles/colors';
+import type { Color, GradientColor } from '../../styles/colors';
 import { FrameContainer, LinearGradientFrameContainer } from './styles';
 
 export interface FrameContainerProps
