@@ -6,7 +6,7 @@ import {
   ThemeProps,
 } from 'styled-components';
 
-interface ShadowProps {
+export interface ShadowProps {
   s1: FlattenInterpolation<ThemeProps<DefaultTheme>>;
   s2: FlattenInterpolation<ThemeProps<DefaultTheme>>;
   s3: FlattenInterpolation<ThemeProps<DefaultTheme>>;

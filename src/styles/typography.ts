@@ -3,7 +3,7 @@ import { css, DefaultTheme, ThemeProps } from 'styled-components/native';
 
 type TypographyValue = FlattenInterpolation<ThemeProps<DefaultTheme>>;
 
-interface TypographyProps {
+export interface TypographyProps {
   display: TypographyValue;
   title1: TypographyValue;
   title2: TypographyValue;
